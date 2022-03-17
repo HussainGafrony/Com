@@ -1,0 +1,33 @@
+C:\Users\hgafr\Desktop\Com\Com\bin\Debug\Com.exe.config
+C:\Users\hgafr\Desktop\Com\Com\bin\Debug\Com.exe
+C:\Users\hgafr\Desktop\Com\Com\bin\Debug\Com.pdb
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.csproj.AssemblyReference.cache
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.csproj.SuggestedBindingRedirects.cache
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.Form1.resources
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.Properties.Resources.resources
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.csproj.GenerateResource.cache
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.csproj.CoreCompileInputs.cache
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.exe
+C:\Users\hgafr\Desktop\Com\Com\obj\Debug\Com.pdb
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\bin\Debug\Com.exe.config
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\bin\Debug\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\bin\Debug\Com.pdb
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.csproj.AssemblyReference.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.csproj.SuggestedBindingRedirects.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.Form1.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.Properties.Resources.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.csproj.GenerateResource.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.csproj.CoreCompileInputs.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Debug\Com.pdb
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\bin\Debug\Com.exe.config
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\bin\Debug\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\bin\Debug\Com.pdb
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.csproj.AssemblyReference.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.csproj.SuggestedBindingRedirects.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.Form1.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.Properties.Resources.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.csproj.GenerateResource.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.csproj.CoreCompileInputs.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Debug\Com.pdb

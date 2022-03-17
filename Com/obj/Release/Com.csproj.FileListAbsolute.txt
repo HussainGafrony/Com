@@ -1,0 +1,22 @@
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\bin\Release\Com.exe.config
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\bin\Release\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\bin\Release\Com.pdb
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.csproj.AssemblyReference.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.csproj.SuggestedBindingRedirects.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.Form1.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.Properties.Resources.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.csproj.GenerateResource.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.csproj.CoreCompileInputs.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\Com\Com\obj\Release\Com.pdb
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\bin\Release\Com.exe.config
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\bin\Release\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\bin\Release\Com.pdb
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.csproj.AssemblyReference.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.csproj.SuggestedBindingRedirects.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.Form1.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.Properties.Resources.resources
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.csproj.GenerateResource.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.csproj.CoreCompileInputs.cache
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.exe
+C:\Users\hgafr\Desktop\Liekasse_Project\C# Project\Com\Com\obj\Release\Com.pdb
